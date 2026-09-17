@@ -6,8 +6,8 @@ namespace FilmApp
 {
     internal class Film
     {
-        public string Cim { get; set; }
+        public string Cim;
 
-        public int HosszPerc { get; set; }
+        public int HosszPercben;
     }
 }
